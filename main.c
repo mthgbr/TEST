@@ -7,6 +7,6 @@ int main(void) {
 
     int version = 2;
     printf("Version du programme : %d\n", version);
-
+    printf("Je teste une nouvelle fonctionnalite !\n");
     return 0;
 }
