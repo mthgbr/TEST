@@ -7,6 +7,6 @@ int main(void) {
 
     int version = 3;
     printf("Version : %d\n", version);
-
+    printf("Modification effectuee depuis GitHub !\n");
     return 0;
 }
