@@ -3,10 +3,10 @@
 
 int main(void) {
     printf("Bonjour GitHub !\n");
-    printf("Bienvenue dans mon projet C.\n");
+    printf("Je travaille maintenant depuis VS Code.\n");
 
-    int version = 2;
-    printf("Version du programme : %d\n", version);
-    printf("Je teste une nouvelle fonctionnalite !\n");
+    int version = 3;
+    printf("Version : %d\n", version);
+
     return 0;
 }
