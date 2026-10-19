@@ -9,5 +9,7 @@ int main(void) {
     printf("Version : %d\n", version);
     printf("Modification effectuee depuis GitHub !\n");
     printf("J'apprends le Stage et Unstage !\n");
+    printf("Je decouvre la commande Amend.\n");
+    printf("Cette ligne avait ete oubliee !\n");
     return 0;
 }
