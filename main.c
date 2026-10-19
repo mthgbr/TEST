@@ -8,5 +8,6 @@ int main(void) {
     int version = 5;
     printf("Version : %d\n", version);
     printf("Modification effectuee depuis GitHub !\n");
+    printf("J'apprends le Stage et Unstage !\n");
     return 0;
 }
