@@ -1,0 +1,6 @@
+
+# Ignorer les executables Windows
+*.exe
+
+# Ignorer les fichiers journaux
+*.log
